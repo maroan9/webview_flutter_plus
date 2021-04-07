@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   webview_flutter: ^2.0.1
-  mime: ^0.9.6+3
+  mime: ^1.0.0
 
 dev_dependencies:
   flutter_test:
